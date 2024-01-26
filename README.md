@@ -1,6 +1,6 @@
 # 1. compose
 https://developer.android.com/jetpack/compose/tutorial?hl=zh-cn Jetpack Compose 教程
-![image](https://github.com/itachsheep/2024/assets/9080851/55819ee9-f2f0-44cb-a58e-7aaa8b8f905c)
+
 
 
 整体和flutter相差不大，动画、逻辑的写法，点击响应事件

@@ -17,6 +17,14 @@
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.ExerciseDemo">
+
+        </activity>
+
+        <activity
+            android:name=".MyActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.ExerciseDemo">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
